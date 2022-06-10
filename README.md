@@ -22,7 +22,7 @@ Observações:
 - Nodes de mineração estão spawnando embaixo da terra, precisa recolocar as posições dele (não coloque encima de pedras do mapa);
 - Está sendo disponibilizado os PBOs do mod do Reaper Island;
 - Possui algumas novas contruções no Airfield já com loot, porém, se atualizar o mapa e ter que trocar o mapground, você deve prestar atenção para recolocar o conteúdo do XML atual no novo;
-- Alguns mods não utilizei todos os itens, exemplo: SNAFU e MushStuffPack. Então não terá nos arquivos types os itens que não estão sendo usados, é necessário revisar caso queira usar outros itensm, para não sumir;
+- Alguns mods não utilizei todos os itens, exemplo: SNAFU e MushStuffPack. Então não terá nos arquivos types os itens que não estão sendo usados, é necessário revisar caso queira usar outros itens, para não sumir;
 - Types dos mods são separados do types vanilla, eles ficam na pasta lastday dentro da empty.deerisle, edite por lá;
 
 Os arquivos estão sendo enviados na arquitetura do OmegaManager, então para quem conhece é simples rodar o servidor.
