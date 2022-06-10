@@ -1,0 +1,207 @@
+{
+    "LastCapturePoint": -1,
+    "ConfigVersion": "1",
+    "Interval": 2700.0,
+    "StartDelay": 500.0,
+    "CaptureTime": 900.0,
+    "EmptyEventTimeOut": 1800.0,
+    "CleanUpTime": 600.0,
+    "PreStartDelay": 300.0,
+    "Hills": [
+        {
+            "Name": "Portland",
+            "X": 6492.55,
+            "Y": 37.25,
+            "Z": 14660,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "North of Sandy Bay",
+            "X": 5126.03,
+            "Y": 6.86172,
+            "Z": 9032.14,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "RCFI Military",
+            "X": 3743.38,
+            "Y": 11.54,
+            "Z": 8685.37,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+            {
+            "Name": "RCFI Military",
+            "X": 3562.58,
+            "Y": 11.833,
+            "Z": 8866.689,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "Camp Bear",
+            "X": 8886.8,
+            "Y": 22.231,
+            "Z": 5965.395,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "Westbrook Military",
+            "X": 3718.35,
+            "Y": 32.3857,
+            "Z": 6243.71,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "Paris Island",
+            "X": 2537.15,
+            "Y": 35.1125,
+            "Z": 3493.9,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "Paris Island",
+            "X": 2481.82,
+            "Y": 35.1125,
+            "Z": 3352.09,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "Prison",
+            "X": 5393.53,
+            "Y": 34.8525,
+            "Z": 687.13,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "Camp Wolf",
+            "X": 5491.98,
+            "Y": 6.6425,
+            "Z": 1111.38,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "Airfield",
+            "X": 5607.13,
+            "Y": 74.152,
+            "Z": 3673.73,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "Airfield",
+            "X": 5428.10,
+            "Y": 74.147,
+            "Z": 3802.981,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        },
+        {
+            "Name": "Camp Eagle",
+            "X": 8834.75,
+            "Y": 45.42,
+            "Z": 3797.19,
+            "CaptureRadius": 20,
+            "EventRadius": 100,
+            "ZombieCount": 20,
+            "Objects": [
+            ]
+        }
+    ],
+    "RewardPools": [
+        {
+            "Name": "First Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "Snafu_ScarH_Black_GUN",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Hacksaw",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "HDSN_BreachingCharge",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "MMG_MK_III_Armor_black",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "CP_CannabisSeedsPackBlackFrost",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "CP_CannabisSeedsPackBlackFrost",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SNAFU_ScarH_100RND_Mag_Black",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "SNAFU_ScarH_100RND_Mag_Black",
+                    "ItemAttachments": []
+                }
+            ]
+        }
+    ],
+    "ZombiesClassNames": [
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert"
+    ],
+    "FullMapCheckTimer": 5.0,
+    "EventTickTime": 1.0,
+    "Logging": 1
+}

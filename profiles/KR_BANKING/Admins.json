@@ -1,0 +1,16 @@
+{
+    "m_Admins": [
+        {
+            "m_PlainID": "",
+            "m_Name": "[ADM] Fischer",
+            "m_permissions": {
+                "m_CanUseServerConfig": 1,
+                "m_CanUsePlayersBankData": 1,
+                "m_CanUsePlayersClans": 1,
+                "m_CanUseMiscServer": 1,
+                "m_CanAddAdmins": 1,
+                "m_CanIgnoreNamePermission": 1
+            }
+        }
+    ]
+}

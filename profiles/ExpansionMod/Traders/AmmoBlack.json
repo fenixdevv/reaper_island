@@ -1,0 +1,24 @@
+{
+    "m_Version": 7,
+    "TraderName": "AmmoBlack",
+    "DisplayName": "Munições",
+    "TraderIcon": "Shotgun Bullets",
+    "Currencies": [
+        "Coin",
+		"AC_Money_Ruble_5000",
+        "AC_Money_Ruble_1000",
+		"AC_Money_Ruble_500",
+        "AC_Money_Ruble_100",
+        "AC_Money_Ruble_50",
+		"AC_Money_Ruble_10",
+		"AC_Money_Ruble_5",
+        "AC_Money_Ruble_1"
+    ],
+    "Categories": [
+		"Ammo:1",
+		"Ammo_Black:1",
+		"Magazines_Black:1",
+		"Magazines:1"
+    ],
+	"Items": {}
+}

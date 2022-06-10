@@ -1,0 +1,79 @@
+{
+    "m_DNAConfig_Loot": [
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "BoxCerealCrunchin"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "medical",
+            "dna_Type": "SalineBagIV"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_Category": "drink",
+            "dna_Type": "WaterBottle"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "BoxCerealCrunchin"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "medical",
+            "dna_Type": "SalineBagIV"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Category": "drink",
+            "dna_Type": "WaterBottle"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "BoxCerealCrunchin"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "SodaCan_Spite"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "medical",
+            "dna_Type": "SalineBagIV"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "food",
+            "dna_Type": "TacticalBaconCan"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Category": "drink",
+            "dna_Type": "WaterBottle"
+        }
+    ]
+}

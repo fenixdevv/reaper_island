@@ -1,0 +1,24 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Botas",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "jmc_Military_Mountain_Boots_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "jmc_Military_Mountain_Boots_Bluerock",
+                "jmc_Military_Mountain_Boots_Brown",
+                "jmc_Military_Mountain_Boots_Redpunk"
+            ]
+        }
+    ]
+}

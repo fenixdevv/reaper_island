@@ -1,0 +1,21 @@
+{
+    "m_Version": 5,
+    "m_ZoneName": "Cacador",
+    "m_DisplayName": "Caçador",
+    "Position": [
+        7610.57958984375,
+        43.0,
+        9941.0263671875
+    ],
+    "Radius": 200.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": 100.0,
+    "Stock": {
+        "wolfpelt": 1,
+        "bearpelt": 1,
+        "bearsteakmeat": 1,
+        "deersteakmeat": 1,
+        "wolfsteakmeat": 1,
+        "deerpelt": 1
+    }
+}

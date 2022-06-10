@@ -1,0 +1,63 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Helicópteros",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "InitStockPercent": 100.0,
+  "Items": [
+    {
+        "ClassName": "HeliMH6_SIB",
+        "MaxPriceThreshold": 1300000,
+        "MinPriceThreshold": 1300000,
+        "SellPricePercent": 20,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "HeliMH6_SIB_d"
+        ]
+    },
+    {
+        "ClassName": "HeliSIB_UH1D",
+        "MaxPriceThreshold": 1500000,
+        "MinPriceThreshold": 1500000,
+        "SellPricePercent": 20,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "HeliSIB_UH1D_airforce",
+            "HeliSIB_UH1D_navy",
+            "HeliSIB_UH1D_iron"
+        ]
+    },
+    {
+        "ClassName": "Heliblack_hawk_SIB",
+        "MaxPriceThreshold": 1300000,
+        "MinPriceThreshold": 1300000,
+        "SellPricePercent": 20,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Heliblack_hawk_SIB_camo"
+        ]
+    },
+    {
+        "ClassName": "Helipolice_SIB4",
+        "MaxPriceThreshold": 1500000,
+        "MinPriceThreshold": 1500000,
+        "SellPricePercent": 20,
+        "MaxStockThreshold": 1,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Helipolice_swat_SIB5"
+        ]
+    }
+    ]
+}

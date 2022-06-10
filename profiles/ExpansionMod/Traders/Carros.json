@@ -1,0 +1,26 @@
+{
+  "m_Version": 7,
+  "TraderName": "Carros",
+  "DisplayName": "Carros",
+  "TraderIcon": "Car",
+  "Currencies": [
+    "Coin",
+    "AC_Money_Ruble_5000",
+    "AC_Money_Ruble_1000",
+    "AC_Money_Ruble_500",
+    "AC_Money_Ruble_100",
+    "AC_Money_Ruble_50",
+    "AC_Money_Ruble_10",
+    "AC_Money_Ruble_5",
+    "AC_Money_Ruble_1"
+  ],
+  "Categories": [
+    "Carros:1",
+    "Bmw_Parts:1",
+    "Raptor_Parts:1",
+    "Chaves:1",
+    "Eletronicos:1",
+		"Suprimentos:1"
+  ],
+  "Items": {}
+}

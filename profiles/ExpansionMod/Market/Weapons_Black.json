@@ -1,0 +1,113 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Armas Mercado Negro",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+		{
+            "ClassName": "GCGN_M82_Barret",
+            "MaxPriceThreshold": 220000,
+            "MinPriceThreshold": 220000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"GCGN_M82_Mag"
+			],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_AS50_GUN",
+            "MaxPriceThreshold": 275000,
+            "MinPriceThreshold": 275000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFU_AS50_Mag"
+			],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUAX50_GUN",
+            "MaxPriceThreshold": 220000,
+            "MinPriceThreshold": 220000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFUAX50_Mag"
+			],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_MAR10_Black_GUN",
+            "MaxPriceThreshold": 66000,
+            "MinPriceThreshold": 66000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFU_Mar10_15rnd_Mag"
+			],
+            "Variants": []
+        },
+        {
+            "ClassName": "ussr_m200",
+            "MaxPriceThreshold": 550000,
+            "MinPriceThreshold": 550000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Mag_ussrm200_7Rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUGM6Lynx",
+            "MaxPriceThreshold": 220000,
+            "MinPriceThreshold": 220000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "SNAFUGM6Lynx_5rdMag"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFUAlligator",
+            "MaxPriceThreshold": 385000,
+            "MinPriceThreshold": 385000,
+            "SellPricePercent": 30,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "SNAFUAlligator_5rdMag"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Snafu_PKP_Black_GUN",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "Snafu_PKP_250RND_Mag"
+            ],
+            "Variants": []
+        }
+    ]
+}

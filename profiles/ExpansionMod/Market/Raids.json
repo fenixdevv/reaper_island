@@ -1,0 +1,49 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Itens para Raids",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Hacksaw",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SledgeHammer",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HDSN_BreachingCharge",
+            "MaxPriceThreshold": 50000,
+            "MinPriceThreshold": 50000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "HDSN_BreachingChargeHeavy",
+            "MaxPriceThreshold": 80000,
+            "MinPriceThreshold": 80000,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SellPricePercent": 100,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

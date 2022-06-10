@@ -1,0 +1,94 @@
+{
+    "ModVersion": "2.11",
+    "MenuDelay": 1.0,
+    "startCurrency": 200000,
+    "maxCurrency": 800000,
+    "IsClanAccountActive": 0,
+    "CostsToCreateClan": 1000000,
+    "CostsToInviteAnPlayer": 100000,
+    "MaxClanAccountLimit": 5000000,
+    "MaxPlayersInClan": 10,
+    "MinAmountToTransfer": 1000,
+    "TransferfeesInProcent": 3,
+    "IsRobEventActive": 0,
+    "MinPlayersForRob": 5,
+    "MinMoneyForRob": 1000,
+    "MaxMoneyForRob": 5000,
+    "TimeInSecToRobATM": 120,
+    "RobMessagesActive": 1,
+    "PayCheckValue": 500,
+    "PayCheckTickTime": 20000,
+    "IsPayCheckMessageActive": 0,
+    "CanAddPayCheckInSafezone": 0,
+    "PayCheckMessage": "%Amount% added to your bank account! stay active to earn more money!",
+    "MinPlayersForPayCheck": 100,
+    "CanAddToFullAcc": 0,
+    "NeedsBankCardToOpenMenu": 0,
+    "m_LoggingSettings": {
+        "m_LogMode": 1,
+        "m_LogDepositOwnBank": 1,
+        "m_LogWithdraw": 1,
+        "m_LogClanDeposit": 1,
+        "m_LogClanWithdraw": 1,
+        "m_LogCreateClanAccount": 1,
+        "m_LogDeleteClanAccount": 1,
+        "m_LogInviteMember": 1,
+        "m_LogUpdatePermission": 1
+    },
+    "m_DiscordWebhook": {
+        "m_UseWebhook": 0,
+        "m_WebhookURL": "Here the full URL!",
+        "m_LogDepositToDiscord": 0,
+        "m_LogWithdrawToDiscord": 0,
+        "m_LogClanDepositToDiscord": 0,
+        "m_LogClanWithdrawToDiscord": 0,
+        "m_LogClanCreateToDiscord": 0,
+        "m_LogClanInviteMemberToDiscord": 0,
+        "m_LogClanRemoveMemberToDiscord": 0,
+        "m_LogClanUpdatePermissionToDiscord": 0,
+        "m_LogClanKickMemberToDiscord": 0,
+        "m_AdminLogUpdateServerConfig": 0,
+        "m_AdminLogUpdatePlayerData": 0,
+        "m_AdminLogUpdateClanData": 0,
+        "m_AdminLogUseMisc": 0
+    },
+    "ATM": [],
+    "BankingCurrency": [
+        {
+            "CurrencyName": "Coin",
+            "CurrencyValue": 100000
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_5000",
+            "CurrencyValue": 5000
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_1000",
+            "CurrencyValue": 1000
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_500",
+            "CurrencyValue": 500
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_100",
+            "CurrencyValue": 100
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_50",
+            "CurrencyValue": 50
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_10",
+            "CurrencyValue": 10
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_5",
+            "CurrencyValue": 5
+        },
+        {
+            "CurrencyName": "AC_Money_Ruble_1",
+            "CurrencyValue": 1
+        }
+    ]
+}

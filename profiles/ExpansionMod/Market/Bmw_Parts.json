@@ -1,0 +1,121 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Partes BMW",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "BMWE34_dver_1_1",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMWE34_dver_1_1_Black",
+                "BMWE34_dver_1_1_Red",
+                "BMWE34_dver_1_1_Purple",
+                "BMWE34_dver_1_1_Beater"
+            ]
+        },
+        {
+            "ClassName": "BMWE34_dver_2_1",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMWE34_dver_2_1_Black",
+                "BMWE34_dver_2_1_Red",
+                "BMWE34_dver_2_1_Purple",
+                "BMWE34_dver_2_1_Beater"
+            ]
+        },
+        {
+            "ClassName": "BMWE34_dver_1_2",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMWE34_dver_1_2_Black",
+                "BMWE34_dver_1_2_Red",
+                "BMWE34_dver_1_2_Purple",
+                "BMWE34_dver_1_2_Beater"
+            ]
+        },
+        {
+            "ClassName": "BMWE34_dver_2_2",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMWE34_dver_2_2_Black",
+                "BMWE34_dver_2_2_Red",
+                "BMWE34_dver_2_2_Purple",
+                "BMWE34_dver_2_2_Beater"
+            ]
+        },
+        {
+            "ClassName": "BMWE34_kapot",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMWE34_kapot_Black",
+                "BMWE34_kapot_Red",
+                "BMWE34_kapot_Purple",
+                "BMWE34_kapot_Beater"
+            ]
+        },
+        {
+            "ClassName": "BMWE34_bagazhnik",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMWE34_bagazhnik_Black",
+                "BMWE34_bagazhnik_Red",
+                "BMWE34_bagazhnik_Purple",
+                "BMWE34_bagazhnik_Beater"
+            ]
+        },
+        {
+            "ClassName": "BMWE34_koleso_style5",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMWE34_koleso_style2",
+                "BMWE34_koleso_style16",
+                "BMWE34_koleso_style21",
+                "BMWE34_koleso_style37"
+            ]
+        }
+    ]
+}

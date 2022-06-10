@@ -1,0 +1,59 @@
+{
+    "m_RestartServer": {
+        "m_Enable": 0,
+        "m_Schedule": [
+            {
+                "m_Hour": 6,
+                "m_Minute": 0,
+                "m_Days": []
+            },
+            {
+                "m_Hour": 18,
+                "m_Minute": 0,
+                "m_Days": [
+                    "sunday",
+                    "monday",
+                    "tuesday",
+                    "wednesday",
+                    "thursday",
+                    "friday",
+                    "saturday"
+                ]
+            }
+        ],
+        "m_Await": 2,
+        "m_Reason": "The server is restarting. Wait a few minutes.",
+        "m_Notification": "The server will restart in %Time% minutes.",
+        "m_Interval": [
+            10,
+            5,
+            1
+        ]
+    },
+    "m_KickSurvivor": {
+        "m_Enable": 0,
+        "m_Reason": "Change your NICKNAME in the launcher."
+    },
+    "m_SpawnProtection": {
+        "m_Time": 15,
+        "m_Before": "Você tem %Time% segundos de spawn protection.",
+        "m_After": "Tempo de spawn protection acabou."
+    },
+    "m_ServerMessages": {
+        "m_Enable": 0,
+        "m_Messages": [
+            {
+                "m_Message": "This server is using AC-Mod-Pack.",
+                "m_Await": 60,
+                "m_Interval": 600,
+                "m_Notification": 0
+            },
+            {
+                "m_Message": "There are %PlayersCount% players online now.",
+                "m_Await": 30,
+                "m_Interval": 300,
+                "m_Notification": 1
+            }
+        ]
+    }
+}

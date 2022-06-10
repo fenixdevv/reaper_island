@@ -1,0 +1,102 @@
+{
+    "m_Version": 9,
+    "DisplayName": "SMGs",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "GCGN_MP7",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"GCGN_MP7_40Rnd"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "GCGN_Vityaz",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"GCGN_Vityaz_Mag",
+				"SNAFU_AK_AR_Stock",
+				"AK_RailHndgrd_Black"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "SNAFU_MP9_GUN",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFU_MP9_30rnd_Mag"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "SNAFU_MPX_GUN",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFU_MPX_30rnd_Mag"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "SNAFUThompsonMk2",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFUThompsonMk2_30rdMag"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "SNAFUP90",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFUP90_50rdMag"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "SNAFUUzi",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFUUzi_32rdMag"
+			],
+            "Variants": []
+        }
+    ]
+}

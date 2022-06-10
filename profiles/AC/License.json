@@ -1,0 +1,16 @@
+{
+    "m_Name": "REAPER ISLAND",
+    "m_Expiration": "2022-06-19",
+    "m_Modules": [
+        "CA_ULTRALIGHT",
+        "CREATURESZONE",
+        "DAYZPLUS",
+        "HELICOPTER",
+        "SCOREBOARD",
+        "SKINNING",
+        "STATICCARCRASH",
+        "STATTRAK"
+    ],
+    "m_Signature": "D2160E3DE9B84EB94AA5EE098CCA8AB82AEE3AFF6BDB11EB0C80B03E7AA7D180",
+    "m_Description": "File that contains the access key for private modules. Get in touch with the creator for more information."
+}

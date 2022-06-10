@@ -1,0 +1,22 @@
+{
+    "m_Version": 7,
+    "TraderName": "ColetesSafezone",
+    "DisplayName": "Coletes",
+    "TraderIcon": "Skull 1",
+    "Currencies": [
+        "Coin",
+		"AC_Money_Ruble_5000",
+        "AC_Money_Ruble_1000",
+		"AC_Money_Ruble_500",
+        "AC_Money_Ruble_100",
+        "AC_Money_Ruble_50",
+		"AC_Money_Ruble_10",
+		"AC_Money_Ruble_5",
+        "AC_Money_Ruble_1"
+    ],
+    "Categories": [
+        "Coletes:1",
+		"Pouch:1"
+    ],
+    "Items": {}
+}

@@ -1,0 +1,139 @@
+[
+    {
+        "Name": "SAFEZONE",
+        "Pos": [
+            5635.021484, 40, 5393.996582
+        ],
+        "Icon": "BasicMap\\gui\\images\\cart.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            39,
+			191,
+			100
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "deerisle",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "HELICÓPTEROS",
+        "Pos": [
+            5523.28, 76, 3605.58
+        ],
+        "Icon": "BasicMap\\gui\\images\\heli.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            25, 195, 247
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "deerisle",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+	{
+        "Name": "BLACK MARKET",
+        "Pos": [
+            2557.537842, 28, 8832.379883
+        ],
+        "Icon": "BasicMap\\gui\\images\\guns.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            255,
+			0,
+			0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "deerisle",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "CAÇADOR",
+        "Pos": [
+            7610.579590, 43, 9941.026367
+        ],
+        "Icon": "BasicMap\\gui\\images\\tent.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            4, 252, 144
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "deerisle",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "TRAFICANTE",
+        "Pos": [
+            8258.617188, 158, 12211.235352
+        ],
+        "Icon": "DZ\\gear\\navigation\\data\\map_palm_ca.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            229, 109, 29
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "deerisle",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "MINERADOR",
+        "Pos": [
+            11357.621094, 3.262500, 2223.479980
+        ],
+        "Icon": "DZ\\gear\\navigation\\data\\map_rock_ca.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            221, 37, 235
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "deerisle",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "BUNKER",
+        "Pos": [
+            7031.13, 587.7, 11618.6
+        ],
+        "Icon": "BasicMap\\gui\\images\\location.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            246, 226, 30
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "HideOnMap": 0,
+        "MaxRenderDistance": -1.0,
+        "MinRenderDistance": -1.0,
+        "MapToShowOn": "deerisle",
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    }
+]

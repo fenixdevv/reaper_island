@@ -1,0 +1,171 @@
+{
+    "CreateLogs": 1,
+    "Charges": [
+        {
+            "Classname": "HDSN_BreachingCharge",
+            "DamageToObjects": 1,
+            "DamageToDestroyableObjectsRadius": 0.0,
+            "VerticalDistanceModeObjects": 0,
+            "MaxVerticalDistanceObjects": 0.0,
+            "MaxDamageToPlayers": 100.0,
+            "MinDamageToPlayers": 50.0,
+            "DamageToPlayersRadius": 5.0,
+            "MaxDamageToPlayersRadius": 2.0,
+            "MaxVerticalDistancePlayers": 0.0,
+            "OnlyDestroyLocks": 0,
+            "DeleteObjectsDirectly": 0,
+            "DestroyLocksFirst": 0,
+            "PlacementDistance": 2.0,
+            "MinPlacementDistance": 0.0,
+            "ToolDamageOnDefuse": 10.0,
+            "DestroyOtherCharges": 0,
+            "TimeToPlant": 90.0,
+            "TimeToExplode": 900.0,
+            "TimeToDefuse": 300.0,
+            "LightBrightness": 0.5,
+            "LightRadius": 10.0,
+            "LightColorStart": [
+                0.0,
+                1.0,
+                0.0
+            ],
+            "LightColorHalfway": [
+                1.0,
+                1.0,
+                0.0
+            ],
+            "LightColorEnd": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "BeepingSoundSet": "HDSN_SoundSet_Beeping",
+            "BeepingSoundEndTime": 2.0,
+            "SwitchInterval": 2.0,
+            "ExplosionSoundSet": "Landmine_Explosion_SoundSet",
+            "DefuseTools": [
+                "Lockpick"
+            ]
+        },
+        {
+            "Classname": "HDSN_BreachingChargeHeavy",
+            "DamageToObjects": 2,
+            "DamageToDestroyableObjectsRadius": 0.0,
+            "VerticalDistanceModeObjects": 0,
+            "MaxVerticalDistanceObjects": 0.0,
+            "MaxDamageToPlayers": 100.0,
+            "MinDamageToPlayers": 50.0,
+            "DamageToPlayersRadius": 5.0,
+            "MaxDamageToPlayersRadius": 2.0,
+            "MaxVerticalDistancePlayers": 0.0,
+            "OnlyDestroyLocks": 0,
+            "DeleteObjectsDirectly": 0,
+            "DestroyLocksFirst": 0,
+            "PlacementDistance": 2.0,
+            "MinPlacementDistance": 0.0,
+            "ToolDamageOnDefuse": 10.0,
+            "DestroyOtherCharges": 0,
+            "TimeToPlant": 90.0,
+            "TimeToExplode": 900.0,
+            "TimeToDefuse": 300.0,
+            "LightBrightness": 0.5,
+            "LightRadius": 10.0,
+            "LightColorStart": [
+                0.0,
+                1.0,
+                0.0
+            ],
+            "LightColorHalfway": [
+                1.0,
+                1.0,
+                0.0
+            ],
+            "LightColorEnd": [
+                1.0,
+                0.0,
+                0.0
+            ],
+            "BeepingSoundSet": "HDSN_SoundSet_Beeping",
+            "BeepingSoundEndTime": 2.0,
+            "SwitchInterval": 2.0,
+            "ExplosionSoundSet": "Landmine_Explosion_SoundSet",
+            "DefuseTools": [
+                "Lockpick"
+            ]
+        }
+    ],
+    "Tiers": [
+        {
+            "Name": "Tier1",
+            "Health": 1,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "Name": "Tier2",
+            "Health": 2,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        },
+        {
+            "Name": "Tier3",
+            "Health": 2,
+            "AcceptedChargeTypes": [
+                "HDSN_BreachingCharge",
+                "HDSN_BreachingChargeHeavy"
+            ]
+        }
+    ],
+    "DestroyableObjects": {
+        "BBP_BDoor_Frame": "Tier1",
+        "BBP_BDoor_Frame_Door_T1": "Tier1",
+        "BBP_BDoor_Frame_Door_T2": "Tier1",
+        "BBP_BDoor_T1": "Tier1",
+        "BBP_BDoor_T1_Door_T1": "Tier1",
+        "BBP_BDoor_T1_Door_T2": "Tier1",
+        "BBP_BDoor_T1_Door_T3": "Tier1",
+        "BBP_BDoor_T2": "Tier2",
+        "BBP_BDoor_T2_Door_T1": "Tier2",
+        "BBP_BDoor_T2_Door_T2": "Tier2",
+        "BBP_BDoor_T2_Door_T3": "Tier2",
+        "BBP_SDoor_Frame": "Tier1",
+        "BBP_SDoor_Frame_Door_T1": "Tier1",
+        "BBP_SDoor_Frame_Door_T2": "Tier2",
+        "BBP_SDoor_Frame_Door_T3": "Tier2",
+        "BBP_SDoor_T1": "Tier1",
+        "BBP_SDoor_T1_Door_T1": "Tier1",
+        "BBP_SDoor_T1_Door_T2": "Tier1",
+        "BBP_SDoor_T1_Door_T3": "Tier1",
+        "BBP_SDoor_T2": "Tier2",
+        "BBP_SDoor_T2_Door_T1": "Tier2",
+        "BBP_SDoor_T2_Door_T2": "Tier2",
+        "BBP_SDoor_T2_Door_T3": "Tier2",
+        "BBP_LGate_Frame": "Tier1",
+        "BBP_LGate_T1": "Tier1",
+        "BBP_LGate_T2": "Tier2",
+        "BBP_RGate_Frame": "Tier1",
+        "BBP_RGate_T1": "Tier1",
+        "BBP_RGate_T2": "Tier2",
+        "BBP_SGate_Frame": "Tier1",
+        "BBP_SGate_T1": "Tier1",
+        "BBP_SGate_T2": "Tier2",
+        "BBP_Mesh_Gate": "Tier2",
+        "BBP_Mesh_Gate_LeftDoor_T2": "Tier2",
+        "BBP_Mesh_Gate_LeftDoor_T2_RightDoor_T2": "Tier2",
+        "BBP_DGate": "Tier1",
+        "BBP_DGate_LeftDoor_T1": "Tier1",
+        "BBP_DGate_LeftDoor_T1_RightDoor_T1": "Tier1",
+        "BBP_DGate_LeftDoor_T1_RightDoor_T2": "Tier1",
+
+        "BBP_DGate_LeftDoor_T2": "Tier2",
+        "BBP_DGate_LeftDoor_T2_RightDoor_T1": "Tier1",
+        "BBP_DGate_LeftDoor_T2_RightDoor_T2": "Tier2",
+
+        "BBP_DGate_LeftDoor_T3": "Tier2",
+        "BBP_DGate_LeftDoor_T3_RightDoor_T3": "Tier2"
+    }
+}

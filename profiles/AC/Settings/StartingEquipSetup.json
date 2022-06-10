@@ -1,0 +1,125 @@
+{
+    "m_Enable": 1,
+    "m_Health": 100,
+    "m_Groups": [
+        {
+            "m_Steam": [
+                "76561198076214822"
+            ],
+            "m_Description": "example",
+            "m_Equip": {
+                "m_Vest": [],
+                "m_Shirt": [],
+                "m_Belt": [],
+                "m_Pants": [],
+                "m_Bag": [],
+                "m_Hat": [],
+                "m_Mask": [],
+                "m_Glasses": [],
+                "m_Glove": [],
+                "m_Shoes": [],
+                "m_Armband": [],
+                "m_Presets": [
+                    {
+                        "m_Vest": "",
+                        "m_Shirt": "TShirt_Black",
+                        "m_Belt": "",
+                        "m_Pants": "Jeans_Black",
+                        "m_Bag": "",
+                        "m_Hat": "BeanieHat_Black",
+                        "m_Mask": "",
+                        "m_Glasses": "",
+                        "m_Glove": "",
+                        "m_Shoes": "AthleticShoes_Black",
+                        "m_Armband": ""
+                    },
+                    {
+                        "m_Vest": "",
+                        "m_Shirt": "TShirt_Green",
+                        "m_Belt": "",
+                        "m_Pants": "Jeans_Green",
+                        "m_Bag": "",
+                        "m_Hat": "BeanieHat_Green",
+                        "m_Mask": "",
+                        "m_Glasses": "",
+                        "m_Glove": "",
+                        "m_Shoes": "AthleticShoes_Green",
+                        "m_Armband": ""
+                    },
+                    {
+                        "m_Vest": "",
+                        "m_Shirt": "TShirt_Blue",
+                        "m_Belt": "",
+                        "m_Pants": "Jeans_Blue",
+                        "m_Bag": "",
+                        "m_Hat": "BeanieHat_Blue",
+                        "m_Mask": "",
+                        "m_Glasses": "",
+                        "m_Glove": "",
+                        "m_Shoes": "AthleticShoes_Blue",
+                        "m_Armband": ""
+                    }
+                ],
+                "m_Items": [],
+                "m_Random": []
+            }
+        }
+    ],
+    "m_Everyone": {
+        "m_Vest": [],
+        "m_Shirt": [
+            "MMG_tactical_shirt_black"
+        ],
+        "m_Belt": [],
+        "m_Pants": [
+            "MMG_combatpants_black"
+        ],
+        "m_Bag": [],
+        "m_Hat": [],
+        "m_Mask": [],
+        "m_Glasses": [],
+        "m_Glove": [],
+        "m_Shoes": [
+            "jmc_Military_Mountain_Boots_Black"
+        ],
+        "m_Armband": [],
+        "m_Presets": [],
+        "m_Items": [],
+        "m_Random": [
+            [
+                "SN_USP_Mag"
+            ],
+            [
+                "SN_USP_Mag"
+            ],
+            [
+                "AmmoBox_45ACP_25rnd"
+            ],
+            [
+                "Rice"
+            ],
+            [
+                "SodaCan_Pipsi",
+                "SodaCan_Cola",
+                "SodaCan_Spite",
+                "SodaCan_Kvass"
+            ]
+        ]
+    },
+    "m_Items": [
+        {
+            "m_Item": "SN_USP",
+            "m_QuickBar": 1,
+            "m_Quantity": 0,
+            "m_Attachments": [
+                "SN_USP_Mag"
+            ]
+        },
+        {
+            "m_Item": "BandageDressing",
+            "m_QuickBar": 2,
+            "m_Quantity": 0,
+            "m_Attachments": []
+        }
+    ]
+}

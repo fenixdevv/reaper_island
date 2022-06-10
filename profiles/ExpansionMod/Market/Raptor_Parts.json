@@ -1,0 +1,139 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Partes Raptor",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "FordRaptor_Scorpio_Wheel",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FordRaptor_Scorpio_Wheel_Black",
+                "FordRaptor_Scorpio_Wheel_White",
+                "FordRaptor_Scorpio_Wheel_Gold",
+                "FordRaptor_Scorpio_Wheel_Blue"
+            ]
+        },
+        {
+            "ClassName": "FordRaptor_Scorpio_doors_driver",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FordRaptor_Scorpio_UA_driver",
+                "FordRaptor_Scorpio_UArust_driver",
+                "FordRaptor_Scorpio_UA2_driver",
+                "FordRaptor_Scorpio_UA2rust_driver",
+                "FordRaptor_Scorpio_Green_driver",
+                "FordRaptor_Scorpio_Black_driver",
+                "FordRaptor_Scorpio_White_driver"
+            ]
+        },
+        {
+            "ClassName": "FordRaptor_Scorpio_doors_codriver",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FordRaptor_Scorpio_UA_codriver",
+                "FordRaptor_Scorpio_UArust_codriver",
+                "FordRaptor_Scorpio_UA2_codriver",
+                "FordRaptor_Scorpio_UA2rust_codriver",
+                "FordRaptor_Scorpio_Green_codriver",
+                "FordRaptor_Scorpio_Black_codriver",
+                "FordRaptor_Scorpio_White_codriver"
+            ]
+        },
+        {
+            "ClassName": "FordRaptor_Scorpio_doors_cargo1",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FordRaptor_Scorpio_UA_cargo1",
+                "FordRaptor_Scorpio_UArust_cargo1",
+                "FordRaptor_Scorpio_UA2_cargo1",
+                "FordRaptor_Scorpio_UA2rust_cargo1",
+                "FordRaptor_Scorpio_Green_cargo1",
+                "FordRaptor_Scorpio_Black_cargo1",
+                "FordRaptor_Scorpio_White_cargo1"
+            ]
+        },
+        {
+            "ClassName": "FordRaptor_Scorpio_doors_cargo2",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FordRaptor_Scorpio_UA_cargo2",
+                "FordRaptor_Scorpio_UArust_cargo2",
+                "FordRaptor_Scorpio_UA2_cargo2",
+                "FordRaptor_Scorpio_UA2rust_cargo2",
+                "FordRaptor_Scorpio_Green_cargo2",
+                "FordRaptor_Scorpio_Black_cargo2",
+                "FordRaptor_Scorpio_White_cargo2"
+            ]
+        },
+        {
+            "ClassName": "FordRaptor_Scorpio_doors_trunk",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FordRaptor_Scorpio_UA_trunk",
+                "FordRaptor_Scorpio_UArust_trunk",
+                "FordRaptor_Scorpio_UA2_trunk",
+                "FordRaptor_Scorpio_UA2rust_trunk",
+                "FordRaptor_Scorpio_Green_trunk",
+                "FordRaptor_Scorpio_Black_trunk",
+                "FordRaptor_Scorpio_White_trunk"
+            ]
+        },
+        {
+            "ClassName": "FordRaptor_Scorpio_doors_hood",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FordRaptor_Scorpio_UA_hood",
+                "FordRaptor_Scorpio_UArust_hood",
+                "FordRaptor_Scorpio_UA2_hood",
+                "FordRaptor_Scorpio_UA2rust_hood",
+                "FordRaptor_Scorpio_Green_hood",
+                "FordRaptor_Scorpio_Black_hood",
+                "FordRaptor_Scorpio_White_hood"
+            ]
+        }
+    ]
+}

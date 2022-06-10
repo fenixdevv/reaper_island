@@ -1,0 +1,51 @@
+{
+    "m_Version": 9,
+    "DisplayName": "LMGs",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+		{
+            "ClassName": "SNAFU_U100",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFU_U100_Mag"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "GCGN_M249",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"GCGN_M249_Mag",
+				"SNAFU_M249Stock",
+				"SNAFU_M249Grip",
+				"SNAFU_M249HG"
+			],
+            "Variants": []
+        },
+		{
+            "ClassName": "SNAFU_RPK16_Black",
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"SNAFU_RPK16_Black_Mag"
+			],
+            "Variants": []
+        }
+    ]
+}

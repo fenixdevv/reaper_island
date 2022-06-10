@@ -1,0 +1,650 @@
+{
+    "Locations": [
+        {
+            "Name": "Oldfield",
+            "Location": [
+                6059,
+                6942
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Oldfield",
+            "Location": [
+                6390,
+                6797
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Mountainville",
+            "Location": [
+                7255,
+                8476
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Mountainville",
+            "Location": [
+                7285,
+                8399
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Paris Island",
+            "Location": [
+                3174,
+                4155
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Paris island",
+            "Location": [
+                2768,
+                4116
+            ],
+            "Accuracy": 50,
+            "DropAccuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Airfield",
+            "Location": [
+                5496,
+                3673
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Airfield",
+            "Location": [
+                5440,
+                3813
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Hazelands",
+            "Location": [
+                4657,
+                2550
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Hazelands",
+            "Location": [
+                3813,
+                2546
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Scouts Camp",
+            "Location": [
+                4953,
+                2095
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Scouts Camp",
+            "Location": [
+                5046,
+                2151
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Greenville",
+            "Location": [
+                4699,
+                1444
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Greenville",
+            "Location": [
+                4764,
+                1537
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Camp Wolf",
+            "Location": [
+                5404,
+                1226
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Prison",
+            "Location": [
+                5522,
+                679
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Stonington",
+            "Location": [
+                7271,
+                1515
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Asheville",
+            "Location": [
+                7209,
+                2589
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Oceanville",
+            "Location": [
+                10230,
+                4876
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Camp Bear",
+            "Location": [
+                9094,
+                5938
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Camp Eagle",
+            "Location": [
+                8812,
+                3788
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Power Plant",
+            "Location": [
+                4632,
+                7072
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Power Plant",
+            "Location": [
+                4566,
+                7291
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Sandy bay",
+            "Location": [
+                5397,
+                7621
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Mountain ville",
+            "Location": [
+                8734,
+                9628
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Sandy bay",
+            "Location": [
+                5292,
+                7607
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Prison",
+            "Location": [
+                5398,
+                678
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Camp wolf",
+            "Location": [
+                5471,
+                1071
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Stonington",
+            "Location": [
+                6720,
+                1447
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Sunset Cross",
+            "Location": [
+                6545,
+                6254
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Warren Cove",
+            "Location": [
+                7016,
+                5299
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Warren Cove",
+            "Location": [
+                7141,
+                5495
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "KushVille",
+            "Location": [
+                7545,
+                4064
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "KushVille",
+            "Location": [
+                7597,
+                3691
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Milo",
+            "Location": [
+                6513,
+                3888
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Camp Bear",
+            "Location": [
+                8766,
+                6090
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Mountainville",
+            "Location": [
+                8929,
+                8841
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Smallville",
+            "Location": [
+                10350,
+                4331
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Oceanville",
+            "Location": [
+                10079,
+                5224
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Portland",
+            "Location": [
+                5572,
+                15424
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Portland",
+            "Location": [
+                6093,
+                14578
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Asheville",
+            "Location": [
+                7199,
+                2295
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Stoneington",
+            "Location": [
+                6604,
+                2361
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Georgetown",
+            "Location": [
+                4696,
+                4473
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Georgetown",
+            "Location": [
+                4455,
+                4551
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Westbrook",
+            "Location": [
+                3502,
+                6220
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        },
+        {
+            "Name": "Westbrook",
+            "Location": [
+                3853,
+                6498
+            ],
+            "Accuracy": 50,
+            "AllowedPackageIDs": [
+                1
+            ]
+        }
+    ],
+    "Packages": [
+        {
+            "Package_name": "Military",
+            "object_type": "CarePackage_typhon",
+            "parachute_type": "ArmyParachute_typhon",
+            "MinWeapons": 2,
+            "MaxWeapons": 4,
+            "MinMiscItems": 6,
+            "MaxMiscItems": 8,
+            "AllowedPackageIDs": [
+                1
+            ],
+            "Items": [
+                {
+                    "Item": "HDSN_Gunpowder",
+                    "MinQty": 1,
+                    "MaxQty": 2,
+                    "Attachments": []
+                },
+                {
+                    "Item": "DNA_Keycard_Blue",
+                    "MinQty": 0,
+                    "MaxQty": 1,
+                    "Attachments": []
+                },
+                {
+                    "Item": "CP_CannabisSeedsPackBlackFrost",
+                    "MinQty": 2,
+                    "MaxQty": 2,
+                    "Attachments": []
+                },
+                {
+                    "Item": "Snafu_ScarH_Black_GUN",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "Snafu_ScarH_25RND_Mag_BK"
+                    ]
+                },
+                { 
+                    "Item": "SNAFUHoneyBadger_Black",
+                    "MinQty": 0,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "SNAFUHoneyBadger_30rdMag_Black"
+                    ]
+                },
+                { 
+                    "Item": "GCGN_M82_Barret",
+                    "MinQty": 0,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "GCGN_M82_Mag",
+                        "SNAFU_HuntingOptic"
+                    ]
+                },
+                { 
+                    "Item": "SNAFUSRSA2",
+                    "MinQty": 1,
+                    "MaxQty": 1,
+                    "Attachments": [
+                        "SNAFUSRSA2_10rdMag",
+                        "SNAFU_HuntingOptic"
+                    ]
+                }
+            ],
+            "Weapons": []
+        }
+    ],
+    "InfectedTypes": [
+        "ZmbM_CitizenASkinny_Blue",
+        "ZmbM_CitizenASkinny_Brown",
+        "ZmbM_CitizenASkinny_Grey",
+        "ZmbM_MotobikerFat_Beige",
+        "ZmbM_MotobikerFat_Black",
+        "ZmbM_MotobikerFat_Blue",
+        "ZmbM_JoggerSkinny_Red",
+        "ZmbM_SkaterYoung_Blue",
+        "ZmbM_SkaterYoung_Brown",
+        "ZmbM_SkaterYoung_Green",
+        "ZmbM_SkaterYoung_Grey",
+        "ZmbM_ClerkFat_Brown",
+        "ZmbM_ClerkFat_Khaki",
+        "ZmbF_JournalistNormal_White",
+        "ZmbF_Clerk_Normal_White",
+        "ZmbF_CitizenANormal_Blue",
+        "ZmbF_CitizenBSkinny",
+        "ZmbF_HikerSkinny_Grey",
+        "ZmbF_SurvivorNormal_Orange",
+        "ZmbF_HikerSkinny_Green",
+        "ZmbF_JoggerSkinny_Green",
+        "ZmbF_SkaterYoung_Striped",
+        "ZmbF_BlueCollarFat_Red",
+        "ZmbF_MechanicNormal_Beige",
+        "ZmbF_PatientOld",
+        "ZmbF_ShortSkirt_beige",
+        "ZmbF_VillagerOld_Red",
+        "ZmbF_JoggerSkinny_Red",
+        "ZmbF_MilkMaidOld_Beige",
+        "ZmbF_VillagerOld_Green",
+        "ZmbF_ShortSkirt_yellow",
+        "ZmbF_NurseFat",
+        "ZmbF_PoliceWomanNormal",
+        "ZmbF_HikerSkinny_Blue",
+        "ZmbF_ParamedicNormal_Green",
+        "ZmbF_JournalistNormal_Red",
+        "ZmbF_SurvivorNormal_White",
+        "ZmbF_JoggerSkinny_Brown",
+        "ZmbF_MechanicNormal_Grey",
+        "ZmbF_BlueCollarFat_Green",
+        "ZmbF_DoctorSkinny"
+    ],
+    "MinutesBetweenPackages": 70,
+    "DropHeight": 200,
+    "DropTime": 10,
+    "PackageCallDelay": 10,
+    "MinutesAway": 2,
+    "MinimumPlayers": 5,
+    "PackagesBeingRan": 2,
+    "ZombiesToSpawn": 15,
+    "LocationHistoryCheckRange": 3,
+    "LootSpawnType": 1,
+    "LockPackages": 1,
+    "Title": "Entrega aérea",
+    "DroppedMessage": "Entrega aérea no ar",
+    "StartMessage": "Uma entrega aérea está a caminho de ",
+    "MinutesAwayPrefix": "A entrega aérea está a ",
+    "MinutesAwaySuffix": " minutos de "
+}

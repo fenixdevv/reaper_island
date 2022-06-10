@@ -1,0 +1,28 @@
+{
+    "m_Version": 7,
+    "TraderName": "AttachmentsSafezone",
+    "DisplayName": "Attachments",
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+		"Coin",
+		"AC_Money_Ruble_5000",
+        "AC_Money_Ruble_1000",
+		"AC_Money_Ruble_500",
+        "AC_Money_Ruble_100",
+        "AC_Money_Ruble_50",
+		"AC_Money_Ruble_10",
+		"AC_Money_Ruble_5",
+        "AC_Money_Ruble_1"
+    ],
+    "Categories": [
+		"Scopes_Vanilla:1",
+		"Scopes_Snafu:1",
+		"Suppressors:1",
+		"Bipods:1",
+		"Buttstocks:1",
+		"Extras:1",
+		"Grips:1",
+		"Handguards:1"
+    ],
+	"Items": {}
+}

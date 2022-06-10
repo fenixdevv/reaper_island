@@ -1,0 +1,49 @@
+{
+    "m_DNAConfig_Clothing": [
+        {
+            "dna_Tier": "yellow",
+            "dna_Helm": "MMG_boonie_black",
+            "dna_Shirt": "MMG_combatshirt_black",
+            "dna_Vest": "MMG_JPC_Vest_black",
+            "dna_Pants": "MMG_combatpants_black",
+            "dna_Shoes": "jmc_Military_Mountain_Boots_Black",
+            "dna_Backpack": "MMG_supplybag_black",
+            "dna_Gloves": "mmg_tactical_gloves_black",
+            "dna_Belt": "",
+            "dna_Facewear": "",
+            "dna_Eyewear": "",
+            "dna_Armband": "",
+            "dna_NVG": ""
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_Helm": "MMG_striker_helmet_erdl",
+            "dna_Shirt": "MMG_combatshirt_erdl",
+            "dna_Vest": "MMG_MK_III_Armor_erdl",
+            "dna_Pants": "MMG_combatpants_erdl",
+            "dna_Shoes": "jmc_Military_Mountain_Boots_Black",
+            "dna_Backpack": "MMG_supplybag_erdl",
+            "dna_Gloves": "mmg_tactical_gloves_erdl",
+            "dna_Belt": "MMG_falcon_b1_belt_erdl",
+            "dna_Facewear": "",
+            "dna_Eyewear": "",
+            "dna_Armband": "",
+            "dna_NVG": ""
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Helm": "ghilliehood_mossy",
+            "dna_Shirt": "MMG_combatshirt_multicam_tropic",
+            "dna_Vest": "MMG_MK_III_Armor__multicam_tropic",
+            "dna_Pants": "MMG_combatpants_multicam_tropic",
+            "dna_Shoes": "jmc_Military_Mountain_Boots_Black",
+            "dna_Backpack": "MMG_supplybag_multicam_tropic",
+            "dna_Gloves": "mmg_tactical_gloves_multicam_tropic",
+            "dna_Belt": "ghilliesuit_mossy",
+            "dna_Facewear": "",
+            "dna_Eyewear": "NVGHeadstrap",
+            "dna_Armband": "",
+            "dna_NVG": "mmg_gp_nvg_green"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "m_Version": 7,
+    "TraderName": "WeaponsSafezone",
+    "DisplayName": "Armas",
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+		"Coin",
+		"AC_Money_Ruble_5000",
+		"AC_Money_Ruble_1000",
+		"AC_Money_Ruble_500",
+        "AC_Money_Ruble_100",
+        "AC_Money_Ruble_50",
+		"AC_Money_Ruble_10",
+		"AC_Money_Ruble_5",
+        "AC_Money_Ruble_1"
+    ],
+    "Categories": [
+		"Melee:1",
+        "Pistols:1",
+		"Shotguns:1",
+		"Submachine:1",
+		"Lmg:1",
+		"Assault:1",
+		"Snipers:1",
+		"Scopes_Vanilla:3",
+		"Scopes_Snafu:3",
+		"Magazines:3",
+		"Suppressors:3",
+		"Bipods:3",
+		"Buttstocks:3",
+		"Extras:3",
+		"Grips:3",
+		"Handguards:3"
+    ],
+	"Items": {}
+}

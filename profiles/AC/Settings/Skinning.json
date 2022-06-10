@@ -1,0 +1,17 @@
+{
+    "m_Enable": 0,
+    "m_Corpses": [
+        {
+            "m_Class": [
+                "ZmbM_MotobikerFat_Black"
+            ],
+            "m_QuantityMax": 0,
+            "m_Itens": [
+                {
+                    "m_Item": "",
+                    "m_Chance": 50
+                }
+            ]
+        }
+    ]
+}

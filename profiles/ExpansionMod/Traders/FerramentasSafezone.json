@@ -1,0 +1,26 @@
+{
+    "m_Version": 7,
+    "TraderName": "FerramentasSafezone",
+    "DisplayName": "Ferramentas",
+    "TraderIcon": "Hammer",
+    "Currencies": [
+        "Coin",
+		"AC_Money_Ruble_5000",
+        "AC_Money_Ruble_1000",
+		"AC_Money_Ruble_500",
+        "AC_Money_Ruble_100",
+        "AC_Money_Ruble_50",
+		"AC_Money_Ruble_10",
+		"AC_Money_Ruble_5",
+        "AC_Money_Ruble_1"
+    ],
+    "Categories": [
+		"Cozinha:1",
+		"Eletronicos:1",
+		"Ferramentas_Grandes:1",
+		"Ferramentas_Pequenas:1",
+		"Fogo_Luz:1",
+		"Suprimentos:1"
+    ],
+	"Items": {}
+}

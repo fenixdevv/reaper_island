@@ -1,0 +1,48 @@
+{
+    "EnableDebug": 1,
+    "LootChestsLocations": [
+        {
+            "name": "Bunker_North_Cheytac",
+            "number": 2,
+            "pos": [
+                "7154.5 267.083 11562.8|0.000000 0.000000 0.000000",
+                "7185 250.963 11621.1|0.000000 0.000000 0.000000",
+                "7166.44 503.851 11591.5|0.000000 0.000000 0.000000",
+                "7196.21 338.024 11556.3|0.000000 0.000000 0.000000",
+                "7159.28 334.361 11584.7|0.000000 0.000000 0.000000"
+            ],
+            "keyclass": "",
+            "openable": 1,
+            "chest": [
+                "CJ_LootChest_Green_Large"
+            ],
+            "lootrandomize": 0.0,
+            "loot": [
+                "LC_predefined_Cheytac",
+                "Mag_ussrm200_7Rnd",
+                "Mag_ussrm200_7Rnd",
+                "M200Optic",
+                "M200Suppressor"
+            ]
+        }
+    ],
+    "LCPredefinedWeapons": [
+        {
+            "defname": "LC_predefined_Cheytac",
+            "weapon": "ussr_m200",
+            "magazine": "",
+            "attachments": [],
+            "optic": "",
+            "opticbattery": 0
+        }
+    ],
+    "LootCategories": [
+        {
+            "name": "LC_Table_Vest_Heavy",
+            "Loot": [
+                "MMG_MK_III_Armor_black",
+                "MMG_MK_V_Armor_black"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "m_Enable": 1,
+    "m_Description": "Reaper Island um dos melhores servidores DeerIsle BR",
+    "m_Tabs": [
+        {
+            "m_TabLabel": "Informações",
+            "m_TabLines": [
+                "Entre em nosso Discord para ler as regras e evite ser banido."
+            ]
+        },
+        {
+            "m_TabLabel": "Administração",
+            "m_TabLines": [
+                "ADMS: Fischer e Santa",
+                "MODERADORES: (Em breve)"
+            ]
+        }
+    ],
+    "m_Buttons": [
+        {
+            "m_ButtonText": "DISCORD",
+            "m_ButtonLink": "https://discord.gg/K2YhjEEdAM"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "m_Enable": 0,
+    "m_Log": 1,
+    "m_Zones": [
+        {
+            "m_D": "Safezone",
+            "m_X": 5635.021484375,
+            "m_Y": 28.700000762939454,
+            "m_Z": 5393.99658203125,
+            "m_R": 300.0
+        }
+    ],
+    "m_Filter": [
+        "Land_Misc_Well_Pump_Blue",
+        "Land_Misc_Well_Pump_Yellow"
+    ]
+}

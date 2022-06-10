@@ -1,0 +1,53 @@
+{
+    "BBP_DisableCraftVanillaFence": 1,
+    "BBP_DisableCraftVanillaWatchtower": 0,
+    "BBP_BaseBuildAnywhere": 1,
+    "BBP_FlagBuildAnywhere": 0,
+    "BBP_TentBuildAnywhere": 1,
+    "BBP_VanillaBuildAnywhere": 0,
+    "BBP_SetInfiniteLifetime": 1,
+    "BBP_AdvancedRotation": 1,
+    "BBP_FloatingPlacement": 1,
+    "BBP_CanRaiseAndLowerHologram": 1,
+    "BBP_InventoryToggle": 1,
+    "BBP_HideKitWhilePlacing": 0,
+    "BBP_BarbedWireRemoveOutside": 1,
+    "BBP_CanAttachFlashlights": 0,
+    "BBP_CanAttachXmaslights": 0,
+    "BBP_CanAttachCamonets": 1,
+    "BBP_CanAttachWallpaper": 0,
+    "BBP_CanAttachCarpet": 0,
+    "BBP_CanAttachPlaster": 0,
+    "BBP_RaidOnlyDoors": 1,
+    "BBP_DisableDestroy": 0,
+    "BBP_DisableDismantle": 0,
+    "BBP_BuildTime": 5,
+    "BBP_DismantleTime": 10,
+    "BBP_Tier1RaidTime": 900,
+    "BBP_Tier2RaidTime": 1500,
+    "BBP_Tier3RaidTime": 1500,
+    "BBP_BaseBuildToolDamage": 1,
+    "BBP_BaseDismantleToolDamage": 1,
+    "BBP_Tier1RaidToolDamage": 1000,
+    "BBP_Tier2RaidToolDamage": 1000,
+    "BBP_Tier3RaidToolDamage": 1000,
+    "BBP_BuildTools": [
+        "Hammer",
+        "Hatchet"
+    ],
+    "BBP_DismantleTools": [
+        "Hatchet",
+        "Crowbar"
+    ],
+    "BBP_Tier1RaidTools": [
+        "SledgeHammer"
+    ],
+    "BBP_Tier2RaidTools": [
+        "SledgeHammer"
+    ],
+    "BBP_Tier3RaidTools": [
+        "SledgeHammer"
+    ],
+    "BBP_CementMixerTime": 252,
+    "BBP_CementMixerLocations": []
+}

@@ -1,0 +1,82 @@
+{
+    "m_DNAConfig_Weapons": [
+        {
+            "dna_Tier": "yellow",
+            "dna_WeaponCategory": "main",
+            "dna_TheChosenOne": "SNAFUTac21",
+            "dna_Magazine": "SNAFUTac21_5rdMag",
+            "dna_Ammunition": "",
+            "dna_OpticType": "SNAFU_HHuntingOptic",
+            "dna_Suppressor": "",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        },
+        {
+            "dna_Tier": "yellow",
+            "dna_WeaponCategory": "side",
+            "dna_TheChosenOne": "SNAFU_SR25_Gun",
+            "dna_Magazine": "SNAFU_SR25_Mag",
+            "dna_Ammunition": "",
+            "dna_OpticType": "SNAFU_EOTech_EXPS3",
+            "dna_Suppressor": "SNAFU_SR25_Supp",
+            "dna_UnderBarrel": "SNAFU_Bipod",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_WeaponCategory": "main",
+            "dna_TheChosenOne": "GCGN_M82_Barret",
+            "dna_Magazine": "GCGN_M82_Mag",
+            "dna_Ammunition": "",
+            "dna_OpticType": "SNAFU_HHuntingOptic",
+            "dna_Suppressor": "",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        },
+        {
+            "dna_Tier": "blue",
+            "dna_WeaponCategory": "side",
+            "dna_TheChosenOne": "Snafu_ScarH_Black_GUN",
+            "dna_Magazine": "SNAFU_ScarH_100RND_Mag_Black",
+            "dna_Ammunition": "",
+            "dna_OpticType": "SNAFU_EOTech_EXPS3",
+            "dna_Suppressor": "SNAFU_Standardized_Suppressor_Black",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        },
+        {
+            "dna_Tier": "red",
+            "dna_WeaponCategory": "side",
+            "dna_TheChosenOne": "Snafu_PKP_Black_Gun",
+            "dna_Magazine": "SNAFU_PKP_250RND_Mag",
+            "dna_Ammunition": "",
+            "dna_OpticType": "SNAFU_AKWalther",
+            "dna_Suppressor": "SNAFU_Standardized_Suppressor_Black",
+            "dna_UnderBarrel": "SNAFU_PKPBIPOD",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": "GhillieAtt_Mossy"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_WeaponCategory": "main",
+            "dna_TheChosenOne": "SNAFUAlligator",
+            "dna_Magazine": "SNAFUAlligator_5rdMag",
+            "dna_Ammunition": "",
+            "dna_OpticType": "SNAFU_HHuntingOptic",
+            "dna_Suppressor": "",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": "GhillieAtt_Mossy"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "m_Enable": 1,
+    "m_Log": 1,
+    "m_Historic": 10,
+    "m_Notification": 5,
+    "m_Timeout": 5,
+    "m_Color": {
+        "m_Default": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 255,
+            "m_B": 255
+        },
+        "m_Head": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 204,
+            "m_B": 0
+        },
+        "m_Killer": {
+            "m_A": 255,
+            "m_R": 0,
+            "m_G": 179,
+            "m_B": 0
+        },
+        "m_Victim": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 26,
+            "m_B": 26
+        }
+    },
+    "m_Message": {
+        "m_Animal": "%KillerInfo% matou %VictimInfo%.",
+        "m_Bleeding": "%VictimInfo% morreu sangrando.",
+        "m_Custom": "%KillerInfo% matou %VictimInfo%.",
+        "m_Died": "",
+        "m_Energy": "",
+        "m_Grenade": "%KillerInfo% matou %VictimInfo% com %WeaponName%.",
+        "m_Melee": "%KillerInfo% matou %VictimInfo% com %WeaponName%.",
+        "m_Player": "%KillerInfo% matou %VictimInfo%.",
+        "m_Suicide": "",
+        "m_Trap": "%KillerInfo% matou %VictimInfo% com %WeaponName%.",
+        "m_Water": "",
+        "m_Weapon": "%KillerInfo% matou %VictimInfo% com %WeaponName% a %KillRange% metros.",
+        "m_Zombie": "%VictimInfo% morreu para zombie."
+    },
+    "m_Webhook": "https://discord.com/api/webhooks/978669064555749386/xxUzyuS2vLttWKLKHGT-MUFcQSQci9acad3S0zkhot3mguuL7k1fGIGeR4VTKEZZSTQi"
+}

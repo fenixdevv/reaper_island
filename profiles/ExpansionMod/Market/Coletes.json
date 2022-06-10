@@ -1,0 +1,72 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Coletes",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "MMG_JPC_Vest_black",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_JPC_Vest_alpine",
+                "MMG_JPC_Vest_dark_woodland",
+                "MMG_JPC_Vest_erdl",
+                "MMG_JPC_Vest_olive",
+                "MMG_JPC_Vest_multicam",
+                "MMG_JPC_Vest_multicamblack",
+                "MMG_JPC_Vest_multicam_tropic",
+                "MMG_JPC_Vest_tan",
+                "MMG_JPC_Vest_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_tt_Vest_black",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tt_Vest_alpine",
+                "MMG_tt_Vest_dark_woodland",
+                "MMG_tt_Vest_erdl",
+                "MMG_tt_Vest_green",
+                "MMG_tt_Vest_multicam",
+                "MMG_tt_Vest_multicamblack",
+                "MMG_tt_Vest_multicam_tropic",
+                "MMG_tt_Vest_tan",
+                "MMG_tt_Vest_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_chestrig_black",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_chestrig_alpine",
+                "MMG_chestrig_dark_woodland",
+                "MMG_chestrig_erdl",
+                "MMG_chestrig_green",
+                "MMG_chestrig_multicam",
+                "MMG_chestrig_multicamblack",
+                "MMG_chestrig_multicam_tropic",
+                "MMG_chestrig_tan",
+                "MMG_chestrig_ucp"
+            ]
+        }
+    ]
+}

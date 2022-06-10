@@ -1,0 +1,89 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Cintos",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "MMG_falcon_b1_belt_black",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_falcon_b1_belt_alpine",
+                "MMG_falcon_b1_belt_dark_woodland",
+                "MMG_falcon_b1_belt_erdl",
+                "MMG_falcon_b1_belt_olive",
+                "MMG_falcon_b1_belt_multicam",
+                "MMG_falcon_b1_belt_multicamblack",
+                "MMG_falcon_b1_belt_multicam_tropic",
+                "MMG_falcon_b1_belt_tan",
+                "MMG_falcon_b1_belt_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_sheath_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_sheath_alpine",
+                "MMG_sheath_dark_woodland",
+                "MMG_sheath_erdl",
+                "MMG_sheath_olive",
+                "MMG_sheath_multicam",
+                "MMG_sheath_multicamblack",
+                "MMG_sheath_multicam_tropic",
+                "MMG_sheath_tan",
+                "MMG_sheath_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_Holster_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_Holster_alpine",
+                "MMG_Holster_dark_woodland",
+                "MMG_Holster_erdl",
+                "MMG_Holster_green",
+                "MMG_Holster_multicam",
+                "MMG_Holster_multicamblack",
+                "MMG_Holster_multicam_tropic",
+                "MMG_Holster_tan",
+                "MMG_Holster_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_carbine_black",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_carbine_red",
+                "MMG_carbine_green",
+                "MMG_carbine_orange",
+                "MMG_carbine_blue",
+                "MMG_carbine_grey"
+            ]
+        }
+    ]
+}

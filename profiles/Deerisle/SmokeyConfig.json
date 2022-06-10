@@ -1,0 +1,11 @@
+{
+    "useSmokey": 0,
+    "smokeyStartHour": 22,
+    "smokeyEndHour": 3,
+    "smokeySpawnChance": 10,
+    "smokeyLivetime": 300000.0,
+    "smokeyCooldown": 36000000.0,
+    "attackRange": 150.0,
+    "smokeyTeleportPlayerChance": 10,
+    "smokeyPlayerTeleportlocations": []
+}

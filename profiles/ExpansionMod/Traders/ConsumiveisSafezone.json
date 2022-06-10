@@ -1,0 +1,23 @@
+{
+    "m_Version": 7,
+    "TraderName": "ConsumiveisSafezone",
+    "DisplayName": "Consumíveis",
+    "TraderIcon": "Can Of Beans Big",
+    "Currencies": [
+        "Coin",
+        "AC_Money_Ruble_5000",
+        "AC_Money_Ruble_1000",
+		"AC_Money_Ruble_500",
+        "AC_Money_Ruble_100",
+        "AC_Money_Ruble_50",
+		"AC_Money_Ruble_10",
+		"AC_Money_Ruble_5",
+        "AC_Money_Ruble_1"
+    ],
+    "Categories": [
+        "Drinks",
+        "Food",
+        "Fruit_And_Vegetables"
+    ],
+    "Items": {}
+}

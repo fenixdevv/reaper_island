@@ -1,0 +1,165 @@
+{
+    "m_Version": 9,
+    "DisplayName": "Chapéus e Capacetes",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "MMG_facemask_black",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_facemask_alpine",
+                "MMG_facemask_dark_woodland",
+                "MMG_facemask_erdl",
+                "MMG_facemask_green",
+                "MMG_facemask_multicam",
+                "MMG_facemask_multicamblack",
+                "MMG_facemask_multicam_tropic",
+                "MMG_facemask_tan",
+                "MMG_facemask_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_balaclava_black",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_balaclava_alpine",
+                "MMG_balaclava_dark_woodland",
+                "MMG_balaclava_erdl",
+                "MMG_balaclava_olive",
+                "MMG_balaclava_multicam",
+                "MMG_balaclava_multicamblack",
+                "MMG_balaclava_multicam_tropic",
+                "MMG_balaclava_tan",
+                "MMG_balaclava_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_tactical_helmet_black",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tactical_helmet_alpine",
+                "MMG_tactical_helmet_dark_woodland",
+                "MMG_tactical_helmet_erdl",
+                "MMG_tactical_helmet_green",
+                "MMG_tactical_helmet_multicam",
+                "MMG_tactical_helmet_multicamblack",
+                "MMG_tactical_helmet_multicam_tropic",
+                "MMG_tactical_helmet_tan",
+                "MMG_tactical_helmet_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_striker_helmet_black",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_striker_helmet_alpine",
+                "MMG_striker_helmet_dark_woodland",
+                "MMG_striker_helmet_erdl",
+                "MMG_striker_helmet_green",
+                "MMG_striker_helmet_multicam",
+                "MMG_striker_helmet_multicamblack",
+                "MMG_striker_helmet_multicam_tropic",
+                "MMG_striker_helmet_tan",
+                "MMG_striker_helmet_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_headphones_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_headphones_tan",
+                "MMG_headphones_green",
+                "MMG_headphones_tan",
+                "MMG_headphones_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_boonie_black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_boonie_alpine",
+                "MMG_boonie_dark_woodland",
+                "MMG_boonie_erdl",
+                "MMG_boonie_green",
+                "MMG_boonie_multicam",
+                "MMG_boonie_multicamblack",
+                "MMG_boonie_multicam_tropic",
+                "MMG_boonie_tan",
+                "MMG_boonie_ucp"
+            ]
+        },
+        {
+            "ClassName": "MMG_tac_goggles_red_green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MMG_tac_goggles_red_black",
+                "MMG_tac_goggles_red_tan",
+                "MMG_tac_goggles_blue_green",
+                "MMG_tac_goggles_blue_black",
+                "MMG_tac_goggles_blue_tan",
+                "MMG_tac_goggles_clear_green",
+                "MMG_tac_goggles_clear_black",
+                "MMG_tac_goggles_clear_tan"
+            ]
+        },
+        {
+            "ClassName": "SportGlasses_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "SportGlasses_Blue",
+                "SportGlasses_Green",
+                "SportGlasses_Orange"
+            ]
+        }
+    ]
+}

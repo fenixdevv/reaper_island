@@ -1,0 +1,10 @@
+name = "ReaperIslandPack"; 								                                      
+picture = "HelicopterMod/data/helicopter_mod_sib.tga";			                                        
+logoSmall = "HelicopterMod/data/helicopter_mod_sib.tga";	                                            
+logo = "HelicopterMod/data/helicopter_mod_sib.tga";				                                   
+logoOver = "HelicopterMod/data/helicopter_mod_sib.tga";	                                            
+tooltip = "Helicopter MOD by SIBNIC";				                                 
+overview = "SIBNIC helicopters premium for Reaper Island"; 					
+action = "https://github.com/moddayz";
+author = "SIBNIC";
+version = "6.5";
